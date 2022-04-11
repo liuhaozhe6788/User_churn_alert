@@ -1,2 +1,2 @@
 # User_churn_alert
-九九HOF游戏用户流失预警
+九九HOF（holdem or foldem）游戏用户流失预测
